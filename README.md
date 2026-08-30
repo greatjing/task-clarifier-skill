@@ -50,7 +50,9 @@ Skill 的完整规则、澄清预算、严格格式保护和权限边界请查�
 
 常见位置示例：
 
-- Codex：`~/.codex/skills/task-clarifier/`
+- Codex用户级目录：$HOME/.agents/skills/task-clarifier/
+- Windows示例：%USERPROFILE%\.agents\skills\task-clarifier\
+- 项目级目录：项目根目录/.agents/skills/task-clarifier/
 - Claude Code（项目级）：`.claude/skills/task-clarifier/`
 
 不同产品的发现、安装和调用方式可能不同，请以对应产品的官方说明为准。
@@ -78,3 +80,7 @@ Skill 的完整规则、澄清预算、严格格式保护和权限边界请查�
 - [Claude Code：Extend Claude with skills](https://code.claude.com/docs/en/skills)
 - [Agent Skills 开放规范](https://agentskills.io/specification)
 
+## 许可证
+
+本项目采用 [MIT License](./LICENSE)。
+你可以使用、复制、修改和分发本项目，但须保留原版权声明和许可证声明。
