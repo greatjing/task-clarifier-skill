@@ -1,0 +1,7 @@
+interface:
+  display_name: "任务开工检查"
+  short_description: "在执行前判断任务该直接做、带假设做、先确认还是停止受阻部分"
+  default_prompt: "使用 $task-clarifier 检查这项任务应直接做、带假设做、先确认，还是停止受阻部分。"
+
+policy:
+  allow_implicit_invocation: true
