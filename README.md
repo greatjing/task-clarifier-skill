@@ -59,7 +59,7 @@ Skill 的完整规则、澄清预算、严格格式保护和权限边界请查�
 
 ### 方式二：直接复制目录
 
-也可以下载本仓库，把 `SKILL.md`、`agents/` 和 `references/` 按原有结构复制到一个名为 `task-clarifier` 的 Skill 目录中。
+也可以下载本仓库，把LICENSE、SKILL.md、agents/和references/按原有结构复制到一个名为task-clarifier的Skill目录中
 
 安装后，可以在任务中主动点名使用，例如：
 
